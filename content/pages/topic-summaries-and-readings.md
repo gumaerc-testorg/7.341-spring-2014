@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics. summaries of the
+  lectures, and associated readings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Topic Summaries and Readings
