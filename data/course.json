@@ -66,7 +66,9 @@
     "content": "df963e11-6823-9008-b3fa-d0f43beb6574",
     "website": "7-341-designer-immunity-lessons-in-engineering-the-immune-system-spring-2014"
   },
-  "learning_resource_types": [],
-  "site_uid": "dfe56e00-824f-4340-a61f-18264e4a7fba",
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "5b248689-4478-40b0-97e7-c2cf7e31c9ba",
   "title": "Course Metadata"
 }
